@@ -617,10 +617,3 @@ D. Shard databases
 ---
 Thanks for going through this **System Design Mock Interview Guide**.  
 
-If you found it helpful:  
-- Star or share it with others preparing for interviews  
-- Use it for quick revision before your next interview  
-- Keep practicing by designing real-world systems (e.g., Twitter, Uber, YouTube)  
-
-**Good luck – you’ve got this!**
- 
