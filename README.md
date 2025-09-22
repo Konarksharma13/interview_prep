@@ -7,9 +7,9 @@ This repo is built to help you practice, revise, and master concepts that show u
 
 ## 🔍 Why this guide?  
 Preparing for interviews can be overwhelming:  
-- 📚 Too many resources scattered around  
-- 🕑 Limited time before interviews  
-- ❓ Unsure which concepts matter most  
+- Too many resources scattered around  
+- Limited time before interviews  
+- Unsure which concepts matter most  
 
 This guide solves that by giving you:  
 - A structured **50-question system design quiz** (with answers & explanations)  
